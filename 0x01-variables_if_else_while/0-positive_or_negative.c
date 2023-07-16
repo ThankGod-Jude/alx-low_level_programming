@@ -3,8 +3,8 @@
 #include <stdio.h>
 /**
  * main = Entry point
- * Description:'Check for number if it is positive or negative'
- * Return: always 0
+ * Description: 'Check for number if it is positive or negative'
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -20,7 +20,7 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	else 
+	else
 	{
 		printf("%d is negative\n", n);
 	}
